@@ -1,0 +1,10 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+PyPDF2
+openai
+langchain_community
+cassio
+datasets
+
